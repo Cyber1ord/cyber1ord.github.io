@@ -964,7 +964,7 @@ main {
   height: 200px;
   border-radius: 16px;
   overflow: hidden;
-/*  margin-bottom: 15px;*/
+  margin-bottom: 15px;
 }
 
 .project-img::before {
@@ -1047,8 +1047,8 @@ main {
   gap: 20px;
 }
 
-.blog-post-item > a,
-.project-item > a
+/*.project-item > a,*/
+.blog-post-item > a
  {
   position: relative;
   background: var(--border-gradient-onyx);
@@ -1058,8 +1058,8 @@ main {
   z-index: 1;
 }
 
-.blog-post-item > a::before,
-.project-item > a::before {
+/*.project-item > a::before,*/
+.blog-post-item > a::before{
   content: "";
   position: absolute;
   inset: 1px;
@@ -1752,7 +1752,7 @@ textarea.form-input::-webkit-resizer { display: none; }
    * PORTFOLIO
    */
 
-  .project-list { grid-template-columns: repeat(2, 1fr); }
+  .project-list { grid-template-columns: repeat(3, 1fr); }
 
 
 

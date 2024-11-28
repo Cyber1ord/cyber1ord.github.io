@@ -1,7 +1,3 @@
-Here’s an example of a **GitHub README profile** tailored using the details provided:
-
----
-
 # 👋 Hi, I'm Adeyemo Raphael
 
 Welcome to my portfolio repository! I’m a **goal-oriented and creative professional** with a passion for **graphic design**, **UI/UX design**, and **web development**. My mission is to turn ideas into visually compelling and functional solutions that reflect the unique identity and objectives of each project.
